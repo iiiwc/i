@@ -3,7 +3,9 @@
 //点播
 
   "sites": 
+  
   [
+  
     {
       "key": "爱坤",
       "name": "📀爱坤",
@@ -606,7 +608,9 @@
 //直播
 
   "lives": 
+  
   [
+  
     {
       "name": "ipv6_1",
       "type": 0,
@@ -630,15 +634,20 @@
 //解析
 
   "parses": 
+  
   [
+  
     {
       "name": "解析1",
       "type": 0,
       "url": "https://xxx.xxx?jx="
     }
   ],
+  
   "flags": 
+  
   [
+  
     "youku",
     "qq",
     "iqiyi",
@@ -654,7 +663,9 @@
 //解码
 
   "ijk": 
+  
   [
+  
     {
       "group": "软解码",
       "options": 
@@ -822,7 +833,9 @@
 //广告
 
   "ads": 
+  
   [
+  
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
