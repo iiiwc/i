@@ -27,8 +27,8 @@
       ]
     },
     {
-      "key": "数字",
-      "name": "📀数字",
+      "key": "挚友",
+      "name": "📀挚友",
       "type": 1,
       "api": "http://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 1,
@@ -127,8 +127,8 @@
       ]
     },
     {
-      "key": "昕琅",
-      "name": "📀昕琅",
+      "key": "星浪",
+      "name": "📀星浪",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "searchable": 1,
@@ -147,8 +147,8 @@
       ]
     },
     {
-      "key": "优质",
-      "name": "📀优质",
+      "key": "致远",
+      "name": "📀致远",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "searchable": 1,
@@ -327,8 +327,8 @@
       ]
     },
     {
-      "key":"虎牙",
-      "name":"📀虎牙",
+      "key":"虎雅",
+      "name":"📀虎雅",
       "type":1,
       "api":"https://www.huyaapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -387,8 +387,28 @@
       ]
     },
     {
-      "key": "缇米",
-      "name": "📀缇米",
+      "key": "优库",
+      "name": "📀优库",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": 
+      [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "伦理片"
+      ]
+    },
+    {
+      "key": "提米",
+      "name": "📀提米",
       "type": 1,
       "api": "https://vipcj.timizy.top/api.php/provide/vod",
       "searchable": 1,
@@ -402,6 +422,30 @@
         "动漫",
         "其他剧",
         "儿童"
+      ]
+    },
+    {
+      "key": "映舍",
+      "name": "📀映舍",
+      "type": 1,
+      "api": "http://ys.540734621.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": 
+      [
+      ]
+    },
+    {
+      "key": "行者",
+      "name": "📀行者",
+      "type": 1,
+      "api": "http://cc.xzam.cn/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": 
+      [
       ]
     },
     {
@@ -540,26 +584,6 @@
       "name": "💿非凡",
       "type": 1,
       "api": "http://www.ffzy.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": 
-      [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "剧情片",
-        "伦理片"
-      ]
-    },
-    {
-      "key": "优库",
-      "name": "💿优库",
-      "type": 1,
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
